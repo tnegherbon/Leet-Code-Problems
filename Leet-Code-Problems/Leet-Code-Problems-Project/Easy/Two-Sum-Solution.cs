@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Two_Sum_Project
+namespace Two_Sum_Namespace
 {
-	public class Solution
+	public class Two_Sum_Solution
 	{
 		public static int[] TwoSum(int[] nums, int target)
 		{

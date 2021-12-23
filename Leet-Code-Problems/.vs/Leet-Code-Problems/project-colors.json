@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6785f022-bc3a-400f-ac5f-7505e3210788": {
+      "ProjectGuid": "6785f022-bc3a-400f-ac5f-7505e3210788",
+      "DisplayName": "Two-Sum-Project",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2aa54fa3-8004-4cc2-b888-050e4c815561": {
+      "ProjectGuid": "2aa54fa3-8004-4cc2-b888-050e4c815561",
+      "DisplayName": "Leet-Code-ProblemsTests",
+      "ColorIndex": 1
+    },
+    "440f37f1-4e66-4976-a6fc-2373e7b6dc26": {
+      "ProjectGuid": "440f37f1-4e66-4976-a6fc-2373e7b6dc26",
+      "DisplayName": "Regular-Expression-Matching-Project",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
