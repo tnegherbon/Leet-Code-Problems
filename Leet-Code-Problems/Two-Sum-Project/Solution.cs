@@ -6,29 +6,23 @@ using System.Threading.Tasks;
 
 namespace Two_Sum_Project
 {
-    public class Solution
-    {
-        public int[] TwoSum(int[] nums, int target)
-        {
-            int index1 = 0, index2 = 1;
+	public class Solution
+	{
+		public static int[] TwoSum(int[] nums, int target)
+		{
+			for (int i = 0; i < nums.Length; i++)
+			{
+				for (int j = 0; j < nums.Length; j++)
+				{
+					if (i != j && (nums[i] + nums[j]) == target)
+					{
+						return new int[] { i, j };
+					}
 
-            foreach (int number in nums)
-            {
-                if (index2 <= nums.Count())
-                {
-                    if ((nums[index1] + nums[index2]) == target)
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        index1++;
-                        index2++;
-                    }
-                }
-            }
+				}
+			}
 
-            return new int[] { index1, index2 };
-        }
-    }
+			return new int[] { 0, 0 };
+		}
+	}
 }
