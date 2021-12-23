@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Leet-Code-Problems/Two-Sum-Project/bin/Debug/net6.0
+/Leet-Code-Problems/Two-Sum-Project/obj
+/Leet-Code-Problems/.vs/Leet-Code-Problems/v17
+/.vs/Leet-Code-Problems/v17
