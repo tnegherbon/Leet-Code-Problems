@@ -3,7 +3,7 @@
   "ProjectMap": {
     "6785f022-bc3a-400f-ac5f-7505e3210788": {
       "ProjectGuid": "6785f022-bc3a-400f-ac5f-7505e3210788",
-      "DisplayName": "Two-Sum-Project",
+      "DisplayName": "Leet-Code-Problems-Project",
       "ColorIndex": 0
     },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
@@ -20,7 +20,17 @@
       "ProjectGuid": "440f37f1-4e66-4976-a6fc-2373e7b6dc26",
       "DisplayName": "Regular-Expression-Matching-Project",
       "ColorIndex": 2
+    },
+    "29f6b292-3237-4fda-addc-855dec79a31c": {
+      "ProjectGuid": "29f6b292-3237-4fda-addc-855dec79a31c",
+      "DisplayName": "Leet-Code-ProblemsTests",
+      "ColorIndex": 3
+    },
+    "9ffbd050-8f4d-4fe0-8c3d-46d7cea022ef": {
+      "ProjectGuid": "9ffbd050-8f4d-4fe0-8c3d-46d7cea022ef",
+      "DisplayName": "Leet-Code-Problems-Project",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
